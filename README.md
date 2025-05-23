@@ -1,5 +1,7 @@
 Brain MRI Image Classification project
 
+Performed dimensionality reduction mostly for visualization of image structure between different classes. Also, applied several classification models, including a convolutional neural network, to classify brain MRI images into classes defined by tumor type.
+
 Brain MRI image data set:
 
 https://www.kaggle.com/datasets/tombackert/brain-tumor-mri-data
